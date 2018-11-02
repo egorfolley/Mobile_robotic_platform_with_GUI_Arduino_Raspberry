@@ -1,2 +1,2 @@
-# Mobile_robotic_platform_with_GUI_using_Arduino
+# System control of mobile robotic platform based on fuzzy logic
 1st year (bachelor) - coursework
